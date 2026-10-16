@@ -176,4 +176,4 @@ WineLens/
 
 ## Author
 
-Created as an undergraduate data science and machine learning project.
+Karak 
